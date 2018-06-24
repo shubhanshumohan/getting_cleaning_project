@@ -85,7 +85,7 @@
 * fBodyBodyGyroJerkMagStd
 * fBodyBodyGyroJerkMagMeanFreq
 
-###Activity lables
+### Activity lables
 * WALKING 
 * WALKING_UPSTAIRS 
 * WALKING_DOWNSTAIRS
